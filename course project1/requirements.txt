@@ -1,0 +1,10 @@
+tweepy
+pandas
+nltk
+textblob
+confluent_kafka
+flask
+dash
+pymongo
+plotly
+six
